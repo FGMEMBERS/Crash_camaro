@@ -1,0 +1,20 @@
+Crash_camaro
+FDM based heavily on Crash_tender by Anders Gidenstam
+(http://www.gidenstam.org/FlightGear/misc/WildFire/)
+
+Peter Brown
+ - Model from online database
+ - Revised Crash_tender FDM with different suspension, power and handling settings
+ - Added wheel, smoke, and drag chute animations
+
+Drag Chute comes from Dave Culp's "Davepack"
+
+
+Original Author of Crash_tender:
+
+Anders Gidenstam  (anders(at)gidenstam.org)
+  - Crash tender FlightGear configuration
+  - Crash tender Flight Dynamics Model configuration
+  - Crash tender 3d model animations
+
+
