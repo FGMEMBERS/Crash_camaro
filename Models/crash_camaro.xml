@@ -7,6 +7,14 @@
  <path>crash_camaro_01.ac</path>
  <!-- x/y/z == back/right/up -->
 
+<!--
+  <effect>
+        <inherits-from>Aircraft/Generic/Effects/Fuselagereflect</inherits-from>
+        <object-name>blech</object-name>
+   <object-name>MS-backligh</object-name>
+    </effect>
+-->
+
  <!-- Parachute -->
  <model>
    <path>Aircraft/DavePack/Stores/Chute/chute.xml</path>
@@ -21,33 +29,33 @@
  <model>
    <path>Models/Effects/RedLight10000.xml</path>
    <offsets>
-     <x-m>2.14</x-m>
+     <x-m>2.19</x-m>
      <y-m>-.59</y-m>
-     <z-m>0.86</z-m>
+     <z-m>0.69</z-m>
    </offsets>
  </model>
  <model>
    <path>Models/Effects/RedLight10000.xml</path>
    <offsets>
-     <x-m>2.21</x-m>
+     <x-m>2.26</x-m>
      <y-m>-0.40</y-m>
-     <z-m>0.86</z-m>
+     <z-m>0.69</z-m>
    </offsets>
  </model>
  <model>
    <path>Models/Effects/RedLight10000.xml</path>
    <offsets>
-     <x-m>2.14</x-m>
+     <x-m>2.19</x-m>
      <y-m>0.59</y-m>
-     <z-m>0.86</z-m>
+     <z-m>0.69</z-m>
    </offsets>
  </model>
  <model>
    <path>Models/Effects/RedLight10000.xml</path>
    <offsets>
-     <x-m>2.21</x-m>
+     <x-m>2.26</x-m>
      <y-m>0.40</y-m>
-     <z-m>0.86</z-m>
+     <z-m>0.69</z-m>
    </offsets>
  </model>
 
